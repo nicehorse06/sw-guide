@@ -1,5 +1,5 @@
-# Software getting started guide
+# Software Getting Started Guide
 
 ## About me
-* I am Jimmy.
+* Hi, I am Jimmy.
 * We can discuss software qustions in Github issues.
